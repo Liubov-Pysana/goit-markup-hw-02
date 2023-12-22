@@ -110,10 +110,10 @@ body {
     letter-spacing: 0.02em;
 }
 .header-address-item:hover {
-    background-color: #404bbf;
+    color: #404bbf;
 }
 .header-address-item:focus {
-    background-color: #404bbf;
+    color: #404bbf;
 }
 /* Main */
 
